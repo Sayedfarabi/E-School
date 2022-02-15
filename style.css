@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.btn{
+    background-color: #21B573;
+    border-radius: 50px;
+    
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+nav .logo{
+    width: 200px;
+    height: 60px;
+}
+.toggler-icon{
+    height: 50px;
+    width: 50px;
+}
+.text-green{
+    color: #21B573;
+}
+p{
+    color: grey;
+}
+.section1{
+    background-color: #F0FFF0;
+}
+.my-bg{
+    background-color: #F8FFFB;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+}
+.man{
+    height: 120px;
+    width: 120px;
+}
+.content{
+    width: 50%;
+}
+.footer{
+    background-color: #282531;
+}
+.wt-400{
+    width: 350px;
+    height: auto;
+}
+ul li{
+    list-style: none;
+}
